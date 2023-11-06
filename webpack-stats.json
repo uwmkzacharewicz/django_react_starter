@@ -1,15 +1,20 @@
 {
   "status": "done",
   "assets": {
-    "frontend-1d5ba42b1a25ff61fb66.js": {
-      "name": "frontend-1d5ba42b1a25ff61fb66.js",
-      "path": "E:\\OneDrive\\Dokumenty\\Django\\django_react_starter\\frontend\\static\\frontend\\frontend-1d5ba42b1a25ff61fb66.js",
-      "publicPath": "/static/frontend/frontend-1d5ba42b1a25ff61fb66.js"
+    "frontend-3173b0ce2f85982e7481.js": {
+      "name": "frontend-3173b0ce2f85982e7481.js",
+      "path": "E:\\OneDrive\\Dokumenty\\Django\\django_react_starter\\frontend\\static\\frontend\\frontend-3173b0ce2f85982e7481.js",
+      "publicPath": "/static/frontend/frontend-3173b0ce2f85982e7481.js"
+    },
+    "frontend-3173b0ce2f85982e7481.js.LICENSE.txt": {
+      "name": "frontend-3173b0ce2f85982e7481.js.LICENSE.txt",
+      "path": "E:\\OneDrive\\Dokumenty\\Django\\django_react_starter\\frontend\\static\\frontend\\frontend-3173b0ce2f85982e7481.js.LICENSE.txt",
+      "publicPath": "/static/frontend/frontend-3173b0ce2f85982e7481.js.LICENSE.txt"
     }
   },
   "chunks": {
     "frontend": [
-      "frontend-1d5ba42b1a25ff61fb66.js"
+      "frontend-3173b0ce2f85982e7481.js"
     ]
   },
   "publicPath": "/static/frontend/"
